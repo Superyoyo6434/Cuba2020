@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+#menu-3 .navbar-toggler {
+  color: #000000;
+}
+#menu-3 .navbar-brand {
+  font-family: 'Roboto Slab', serif;
+}
+#header1-2 H1 {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+#header1-2 P {
+  text-align: center;
+}
+#header1-2 B {
+  font-size: 100px;
+}
+#custom-html-c {
+  /* Type valid CSS here */
+}
+#custom-html-c div {
+  background-color: white;
+  color: #000f;
+  text-align: center;
+}
+#custom-html-c h1 {
+  text-size: 35px;
+}
+#content4-d P {
+  text-align: center;
+}
+#msg-box4-e .lead {
+  text-align: left;
+}
+#custom-html-f {
+  /* Type valid CSS here */
+}
+#custom-html-f div {
+  background-color: white;
+  color: #000f;
+  text-align: center;
+}
+#custom-html-f h1 {
+  text-size: 35px;
+}
+#footer1-n P {
+  text-align: center;
+}
